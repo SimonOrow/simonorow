@@ -50,7 +50,7 @@
     <a href="https://getbootstrap.com" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code>  
     </a> 
-    <a href="https:/nodejs.org" target="_blank"> 
+    <a href="https://nodejs.org" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/></code>  
     </a> 
     <a href="https://reactjs.org/" target="_blank"> 
@@ -66,7 +66,7 @@
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
     </a> 
-    <a href="https:/bitbucket.org" target="_blank"> 
+    <a href="https://bitbucket.org" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/></code>  
     </a> 
     <a href="https://firebase.google.com/" target="_blank"> 
