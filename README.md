@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋🏻, I'm Simon Orow</h1>
 <h4 align="center">I'm a passionate programmer looking to grow in many areas. I got my start developing iOS applications on my own time and continue to learn something new every day.</h4>
 
-- 💻 Currently learning about **advanced backend development**
+- 💻 Currently learning about **advanced backend web development**
 
 - 🔍 Searching for software engineering roles related to **web frontend, web backend, or iOS**
 
@@ -43,20 +43,42 @@
     <a href="https://swift.org" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></code>  
     </a>
-    <a href="https://python.org" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code>  
-    </a>
 </p>
 
-<h3 align="left">Tools</h3>
+<h3 align="left">Libraries and Frameworks</h3>
 <p align="left">  
     <a href="https://getbootstrap.com" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code>  
     </a> 
-    <a href="https://git-scm.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
+    <a href="https:/nodejs.org" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/></code>  
+    </a> 
+    <a href="https://reactjs.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></code>  
     </a> 
     <a href="https://www.linux.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>  
+    </a> 
+</p>
+
+<h3 align="left">Tools</h3>
+<p align="left">  
+    <a href="https://git-scm.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
+    </a> 
+    <a href="https:/bitbucket.org" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="40" height="40"/></code>  
+    </a> 
+    <a href="https://firebase.google.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></code>  
+    </a> 
+    <a href="https://www.linux.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>  
+    </a>
+    <a href="https://code.visualstudio.com" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/></code>  
+    </a> 
+    <a href="https://developer.apple.com/xcode/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-plain.svg" alt="Xcode" width="40" height="40"/></code>  
     </a> 
 </p>
