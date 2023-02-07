@@ -8,7 +8,7 @@
 
 - 🤔  Interested in  **security and low-level programming**
 
-- ⚡ Fun fact: **I love to work out during my free time**
+- ⚡ Hobbies: **Working out, and soccer**
 <!--
 <p align="left">
 <h3 align="left">Connect with me:</h3>
